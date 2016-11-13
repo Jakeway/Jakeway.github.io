@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
-
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
-
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+<section class="author">
+  <div class="authorimage box" style="background: url({{site.baseurl}}/assets/img/jakeway.jpg)"></div>
+  <div class="authorinfo box">
+    <p>Thomas Jakeway</p>
+    <p class="bio">
+      Currently working as a software developer for ADP in Roseland, NJ. Mostly work on designing and building out RESTful
+        APIs. When I'm not coding, I enjoy rock climbing, volleyball, and playing guitar. </p>
+  </div>
+</section>
